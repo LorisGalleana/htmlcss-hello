@@ -68,3 +68,38 @@ span {
     display: block;
 }
 
+.github {
+    height: 35px;
+    width: 35px;
+    background-image: url(github2.png);
+    background-size: cover;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    border: 0.1px solid white;
+    margin: 5px;    
+}
+
+.linkedin {
+    height: 35px;
+    width: 35px;
+    background-image: url(linkedin.png);
+    background-size: cover;
+    position: absolute;
+    top: 15px;
+    left: 60px;
+    border: 0.1px solid white;
+    margin: 5px;    
+}
+
+.discord {
+    height: 35px;
+    width: 35px;
+    background-image: url(discord.png);
+    background-size: cover;
+    position: absolute;
+    top: 15px;
+    left: 105px;
+    border: 0.1px solid white;
+    margin: 5px;    
+}
