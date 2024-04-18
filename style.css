@@ -1,6 +1,8 @@
+
 body {
     background-image: url(world.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 h1 {
@@ -18,8 +20,51 @@ span {
    
 }
 
-p {
+.date {
     margin: 0px;
     padding: 0px;
     text-align: center;
 }
+
+.missioni {
+    color: white;
+    margin: 5px;
+    width: 120px;
+}
+
+.hide {
+    display: none;    
+}
+
+.quest {
+    margin: 5px;
+}
+
+.pergamena {
+    background-image: url(355822.png);
+    background-size: cover;
+    height: 200px;
+    width: 150px;
+    /* background-color: red; */
+}
+
+.quest-text { 
+    padding: 6px;
+    font-size: 12px;
+    text-align: left;
+    color: black;
+}
+
+.quest-title {
+    font-weight: bold;
+}
+
+.hide p {
+    margin: 5px;
+    
+}
+
+.quest:hover + .hide {
+    display: block;
+}
+
