@@ -2,7 +2,7 @@
 body {
     height: 100vh;
     width: 100vw;
-    background-image: url(world.jpg);
+    background-image: url(img/world.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -52,7 +52,7 @@ span {
 }
 
 .pergamena {
-    background-image: url(PERGAMENA.png);
+    background-image: url(img/pergamena.png);
     background-size: cover;
     height: 225px;
     width: 165px;
@@ -83,7 +83,7 @@ span {
 .github {
     height: 35px;
     width: 35px;
-    background-image: url(github2.png);
+    background-image: url(img/github2.png);
     background-size: cover;
     position: absolute;
     top: 15px;
@@ -95,7 +95,7 @@ span {
 .linkedin {
     height: 35px;
     width: 35px;
-    background-image: url(linkedin.png);
+    background-image: url(img/linkedin.png);
     background-size: cover;
     position: absolute;
     top: 15px;
@@ -107,7 +107,7 @@ span {
 .discord {
     height: 35px;
     width: 35px;
-    background-image: url(discord.png);
+    background-image: url(img/discord.png);
     background-size: cover;
     position: absolute;
     top: 15px;
