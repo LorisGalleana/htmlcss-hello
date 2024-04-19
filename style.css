@@ -35,7 +35,7 @@ span {
 .missioni {
     color: white;
     margin: 5px;
-    width: 120px;
+    width: 130px;
 }
 
 .hide {
@@ -44,6 +44,9 @@ span {
 
 .quest {
     margin: 5px;
+    font-family: "Italianno", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .pergamena {
